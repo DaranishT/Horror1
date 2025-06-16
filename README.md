@@ -21,14 +21,20 @@ Trapped and alone, you must **disable alien beacons** while unraveling the eerie
 
 
 ![In-Game Screenshot](images/gameplay_01.png)
+
 ![In-Game Screenshot](images/gameplay_02.png)
+
 ![In-Game Screenshot](images/gameplay_03.png)
+
 ![In-Game Screenshot](images/gameplay_04.png)
+
 ![In-Game Screenshot](images/gameplay_05.png)
+
 ![In-Game Screenshot](images/gameplay_06.png)
+
 ![In-Game Screenshot](images/gameplay_07.png)
 
-*Radio detecting beacon interference*
+
 
 ![In-Game Screenshot](images/gameplay_08.png)
 *The moment just before the enemy arrives...*
@@ -36,8 +42,6 @@ Trapped and alone, you must **disable alien beacons** while unraveling the eerie
 ---
 
 ## 📹 Gameplay Preview
-
-> *(Upload the video to YouTube or GitHub and paste the link below)*
 
 [▶️ Watch the gameplay video](https://www.youtube.com/watch?v=your_video_link)
 
@@ -65,7 +69,7 @@ The game is currently in its **final development phase** and nearing completion.
 ## 📬 Contact
 
 If you're an HR, recruiter, or fellow developer interested in this project:
-- [LinkedIn Profile](http://www.linkedin.com/in/t-daranish) *(Replace with your link)*
+- [LinkedIn Profile](http://www.linkedin.com/in/t-daranish) 
 - [GitHub Profile](https://github.com/DaranishT)
 
 ---
