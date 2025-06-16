@@ -43,7 +43,12 @@ Trapped and alone, you must **disable alien beacons** while unraveling the eerie
 
 ## 📹 Gameplay Preview
 
-[▶️ Watch the gameplay video](https://www.youtube.com/watch?v=your_video_link)
+## 🎥 Game Showcase
+
+<iframe src="https://streamable.com/hid6ec" width="720" height="405" frameborder="0" allowfullscreen></iframe>
+
+*A short preview of the game's environment and mechanics.*
+
 
 ---
 
