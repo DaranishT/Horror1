@@ -27,10 +27,10 @@ Trapped and alone, you must **disable alien beacons** while unraveling the eerie
 ![In-Game Screenshot](images/gameplay_05.png)
 ![In-Game Screenshot](images/gameplay_06.png)
 ![In-Game Screenshot](images/gameplay_07.png)
-![In-Game Screenshot](images/gameplay_08.png)
+
 *Radio detecting beacon interference*
 
-![Chase Scene](images/gameplay_09.png)  
+![In-Game Screenshot](images/gameplay_08.png)
 *The moment just before the enemy arrives...*
 
 ---
@@ -66,7 +66,7 @@ The game is currently in its **final development phase** and nearing completion.
 
 If you're an HR, recruiter, or fellow developer interested in this project:
 - [LinkedIn Profile](http://www.linkedin.com/in/t-daranish) *(Replace with your link)*
-- [GitHub Profile](https://github.com/your-username)
+- [GitHub Profile](https://github.com/DaranishT)
 
 ---
 
